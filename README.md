@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Muhammad Mubashir
-- 👀 I’m interested in developing websites and webapps
-- 🌱 I’m currently learning core concepts of backend development
-- 📫 You can reach me through my email address: mubashir90213@gmail.com
+while (alive) {
+  code();
+  eat();
+  sleep();
+}
 
 <!---
 mubashir913/mubashir913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

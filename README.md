@@ -1,10 +1,5 @@
-1 - while (alive) {
-2 -  code();
-3 -  eat();
-4 -  sleep();
-5 - }
-
-<!---
-mubashir913/mubashir913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div> <strong> 1 - </strong> &nbsp; while (alive) { </div>
+<div> <strong> 2 - </strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; code(); </div>
+<div> <strong> 3 - </strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eat(); </div>
+<div> <strong> 4 - </strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sleep(); </div>
+<div> <strong> 5 - </strong> &nbsp; } </div>
